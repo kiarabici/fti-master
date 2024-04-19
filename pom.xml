@@ -53,6 +53,7 @@
             <scope>runtime</scope>
         </dependency>
         <!-- Java EE -->
+            <!-- Java EE -->
         <dependency>
             <groupId>javax.inject</groupId>
             <artifactId>javax.inject</artifactId>
